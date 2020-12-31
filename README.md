@@ -10,7 +10,6 @@
 
 📊 - I have deep knowledge in the fields of Data science , Artificial intelligence , Machine Learning , Deep Learning , Data Mining , Algorithmic , Programmation, Software Engineering , Mathematics , Statistics , Business Intelligence ......
 
-👩🏻‍💻 - A GLOBAL AMBASSADOR at WomenTech Network: We promote gender diversity in tech and connect women all over the world, from students to talented and skilled female professionals, like engineers, data scientists, designers, product managers, and other tech-roles with top companies and leading startups that value diversity, inclusion and strive to create a culture of belonging, through different and various networking events.
 📟 -  Python & R & Scala and eager to learn more!
 
 🎤 - I Speak fluently French, English & Arabic
