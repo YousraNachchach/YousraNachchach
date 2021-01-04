@@ -1,8 +1,12 @@
 
 Hello World👋 , I'm Yousra NACHCHACH a Data Enthusiast 😍
+
 🎓 Morocco 2019: Graduated from the National School of Applied Sciences (ENSA) of Tangier: Master 2 in Data Science (Mention Bien).
+
 🎓France 2019-2020 : Graduated from the University of Lorraine (IDMC) at NANCY: M2 in Cognitive Sciences option Artificial Intelligence (Mention Bien).
+
 🎓 France 2020-2021 : Apprentice in Machine Learning for Data Science at the University of Paris.
+
 
 👩🏻‍💻 - Junior Data Scientist at Orange Labs ,FRANCE
 
